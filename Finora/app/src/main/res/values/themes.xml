@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.Finora" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#070B1A</item>
+    </style>
+</resources>
